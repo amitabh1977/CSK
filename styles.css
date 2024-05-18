@@ -1,0 +1,102 @@
+/* Reset CSS */
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3e5ab; /* Light beige */
+}
+
+/* Header Styles */
+header {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.logo img {
+    width: 200px; /* Adjust size as needed */
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 20px;
+    color: #885a3d; /* Brown */
+}
+
+p {
+    font-size: 18px;
+}
+
+/* Menu Section Styles */
+#menu {
+    background-color: #d6b699; /* Light brown */
+    padding: 50px 0;
+    text-align: center;
+}
+
+.menu-category h3 {
+    font-size: 24px;
+    color: #885a3d; /* Brown */
+}
+
+.menu-item {
+    display: inline-block;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.menu-item img {
+    width: 200px; /* Adjust size as needed */
+    border-radius: 5px;
+}
+
+.menu-item h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #885a3d; /* Brown */
+}
+
+.menu-item p {
+    font-size: 18px;
+}
+
+/* About Section Styles */
+#about {
+    text-align: center;
+    padding: 50px 0;
+}
+
+/* Contact Section Styles */
+#contact {
+    background-color: #d6b699; /* Light brown */
+    text-align: center;
+    padding: 50px 0;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #885a3d; /* Brown */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.social-media {
+    margin-bottom: 20px;
+}
+
+.social-media a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.social-media a:hover {
+    color: #f3e5ab; /* Light beige */
+}
+
+
